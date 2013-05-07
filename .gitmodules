@@ -1,3 +1,30 @@
 [submodule "bundle/match_tag"]
 	path = bundle/match_tag
 	url = git://github.com/gregsexton/MatchTag.git
+[submodule "bundle/nerd_tree"]
+	path = bundle/nerd_tree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim_bundler"]
+	path = bundle/vim_bundler
+	url = git://github.com/tpope/vim-bundler.git
+[submodule "bundle/ack_vim"]
+	path = bundle/ack_vim
+	url = git://github.com/mileszs/ack.vim.git
+[submodule "vim_coffee_script"]
+	path = vim_coffee_script
+	url = git://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim_coffee_script"]
+	path = bundle/vim_coffee_script
+	url = git://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/nerdtree_tabs"]
+	path = bundle/nerdtree_tabs
+	url = git://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "bundle/vim_endwise"]
+	path = bundle/vim_endwise
+	url = git://github.com/tpope/vim-endwise.git
+[submodule "bundle/vim_rails"]
+	path = bundle/vim_rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "bundle/vim_sensible"]
+	path = bundle/vim_sensible
+	url = git://github.com/tpope/vim-sensible.git
