@@ -31,5 +31,11 @@ map <D-r> :! ruby %<CR>
 "make a dollar sign appear up to where the change will take place
 "set cpoptions+=$
 
+set smartindent 
+set tabstop=4 
+set shiftwidth=4 
+set expandtab
+
+
 "make tab default to 2 spaces for ruby files
 au FileType ruby setl sw=2 sts=2 et
